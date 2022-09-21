@@ -1,0 +1,37 @@
+_repo: Worlds-in-the-making-The-evolution-of-the-universe_69022
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Borns, Dr. H.
+    gutenberg_agent_id: '55062'
+    url: http://www.gutenberg.org/2009/agents/55062
+creator:
+  author:
+    agent_name: Arrhenius, Svante
+    alias: Arrhenius, Svante August
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '49834'
+    url: http://www.gutenberg.org/2009/agents/49834
+    wikipedia:
+    - https://sv.wikipedia.org/wiki/Svante_Arrhenius
+    - https://en.wikipedia.org/wiki/Svante_Arrhenius
+description: ''
+gutenberg_issued: '2022-09-21'
+identifiers:
+  gutenberg: '69022'
+language: en
+pgterms:marc904: https://archive.org/details/worldsinmakingev00arrhuoft/page/n5/mode/2up
+pgterms:marc905: 20220319055249arrhenius
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Harper & Brothers Publishers,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Worlds in the making: The evolution of the universe'
+url: http://www.gutenberg.org/ebooks/69022
