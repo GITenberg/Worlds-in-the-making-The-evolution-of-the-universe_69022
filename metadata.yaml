@@ -5,6 +5,9 @@ contributor:
     agent_name: Borns, Dr. H.
     gutenberg_agent_id: '55062'
     url: http://www.gutenberg.org/2009/agents/55062
+covers:
+- cover_type: archival
+  image_path: 69022-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Arrhenius, Svante
@@ -17,6 +20,8 @@ creator:
     - https://sv.wikipedia.org/wiki/Svante_Arrhenius
     - https://en.wikipedia.org/wiki/Svante_Arrhenius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69022#Worlds-in-the-making-The-evolution-of-the-universe
 gutenberg_issued: '2022-09-21'
 identifiers:
   gutenberg: '69022'
